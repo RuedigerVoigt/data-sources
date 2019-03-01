@@ -10,6 +10,13 @@
 * [Statistisches Bundesamt (DeStatis)](https://www.destatis.de/)
 * [GOVDATA](https://www.govdata.de/)
 
+### North Rhine-Westphalia (NRW)
+
+
+* [Open.NRW](https://open.nrw/)
+* [Offene Daten Köln](https://offenedaten-koeln.de/)
+
+
 
 # Associated
 
