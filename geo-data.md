@@ -1,4 +1,6 @@
-# Global
+# Geographic Data Sources
+
+## Global Level
 
 
 * [OpenStreetMap](https://www.openstreetmap.org/)
@@ -7,26 +9,22 @@
 * [Open Geospatial Consortium (OGC)](https://www.opengeospatial.org/) : develops open standards
 
 
+## European Union and Associated
 
+### Germany
 
-
-
-# European Union and Associated
-
-## Germany
-
-
+* [Geoportal.de](https://www.geoportal.de/)
 * [Bundesamt für Kartographie und Geodäsie](https://www.bkg.bund.de/)
 
 
-## Switzerland
+### Switzerland
 
 
 * [Federal Office of Topography (swisstopo)](https://www.swisstopo.admin.ch/)
 
 
 
-# United States
+## United States
 
 
 * [U.S. Geological Survey (USGS)](https://www.usgs.gov/)
@@ -34,7 +32,7 @@
 
 
 
-# Map Collections
+## Map Collections
 
 
 * [Library of Congress: Collections with Maps](https://www.loc.gov/maps/collections/)
