@@ -1,5 +1,9 @@
 # Data Portals
 
+## Specialized Search Engines
+
+[Google Dataset Search](https://datasetsearch.research.google.com/)
+
 ## Data on a Global Level
 
 * [Worldbank](https://data.worldbank.org/)
@@ -20,6 +24,7 @@
 * **Germany**
     * [Statistisches Bundesamt (DeStatis)](https://www.destatis.de/)
     * [GOVDATA](https://www.govdata.de/)
+    * [Company Register](https://www.unternehmensregister.de/)
     * *North Rhine-Westphalia (NRW)*
         * [Open.NRW](https://open.nrw/)
         * [Offene Daten Köln](https://offenedaten-koeln.de/)
